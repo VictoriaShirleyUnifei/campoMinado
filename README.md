@@ -27,13 +27,18 @@ Um jogo clássico de **Campo Minado**, desenvolvido em **React Native** utilizan
 
 ## ▶️ Como executar
 
-1. Clone o repositório:
+1. Clone o repositório
+
+2. Instale as dependências:
 
 ```bash
-git clone https://github.com/seu-usuario/campo-minado.git
-cd campo-minado
+npm install
 ```
 
+3. Rode o app:
+```bash
+npx expo start
+```
 
 ## 📁 Estrutura de Pastas
 
